@@ -1,0 +1,4 @@
+
+https://blooming-hollows-23024.herokuapp.com
+https://github.com/dopelsunce/rottenpotatoes-rails-intro
+
